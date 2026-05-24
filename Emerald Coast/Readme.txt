@@ -1,11 +1,21 @@
 ===WHAT'S NEW?===
-==V1.0.1 (02/01/21)==
+==V1.1 (2026/05/22)==
 =Changelog=
-- Lowered fall boundary below upper section of the pier 
+- Optimized materials
+- Adjusted mipmaps
+- Patched model holes
+- Added some springs along pillars like the original
+- Prevented going through the wall when taking the halfpipe as much as possible
+- Prevented horizontal wall issues
+- Many minor KCL fixes and improvements
+- Removed broken Thwomp shadows and improved thwomp alignment
+- Improved enemy and item routes
+- Adjusted checkpoints and respawn points
+- Adjusted item box set locations
+- Removed unused files
+- Added a no cannon version
 =Known Issues=
-- Various minor shading and vertex color issues
-- Spike Gates move over time (spend 5 minutes and you'll see they've moved out of the gate a bit, and I have no idea why this happens)
-- Spike Gate shadows and particle effects render incorrectly (ideally I'd like to remove them altogether but was having issues with it)
+- None as of now, some lighting fixes were made but I am unsure of which specific issues were being talked about it the previous known issues message so some may remain.
 
 ===ABOUT===
 
@@ -27,14 +37,31 @@ All of this is to say I hope you enjoy playing it a lot more than I enjoyed maki
 - Original Textures and some models by Sega and Sonic Team
 - Several course models ripped by Spectro
 - Orca model from Zoo Tycoon 2 ripped by valforwing (no, I couldn't find the one from Sonic Adventure)
+- Update v1.1 by Bosushii and KaneTheSnowman
 
 ===FULL CHANGELOG===
 Here is a history of all updates with newest releases first.
 
-==V1.0.1 (02/01/21)==
+==V1.1 (2026/05/22)== 
+=Changelog=
+- Optimized materials
+- Adjusted mipmaps
+- Patched model holes
+- Added some springs along pillars like the original
+- Prevented going through the wall when taking the halfpipe as much as possible
+- Prevented horizontal wall issues
+- Many minor KCL fixes and improvements
+- Removed broken Thwomp shadows and improved thwomp alignment
+- Improved enemy and item routes
+- Adjusted checkpoints and respawn points
+- Adjusted item box set locations
+- Removed unused files
+- Added a no cannon version
+
+==V1.0.1 (2021/01/02)==
 =Changelog=
 - Lowered fall boundary below upper section of the pier 
 
-==V1.0 (01/31/21)==
+==V1.0 (2021/01/31)==
 =Changelog=
 - Initial Release
