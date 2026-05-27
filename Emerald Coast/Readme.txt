@@ -47,11 +47,11 @@ Here is a history of all updates with newest releases first.
 - Optimized materials
 - Adjusted mipmaps
 - Patched model holes
-- Added some springs along pillars like the original
+- Added some springs along pillars like the original level
 - Prevented going through the wall when taking the halfpipe as much as possible
 - Prevented horizontal wall issues
-- Many minor KCL fixes and improvements
-- Removed broken Thwomp shadows and improved thwomp alignment
+- Made many minor KCL fixes and improvements
+- Removed broken Thwomp shadows and improved Thwomp alignment
 - Improved enemy and item routes
 - Adjusted checkpoints and respawn points
 - Adjusted item box set locations
